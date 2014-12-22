@@ -1,3 +1,31 @@
-lttest
-======
-但是
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://git.oschina.net/xiang/ishijianDownload/attach_files/download?i=4854&amp;u=http%3A%2F%2Ffiles.git.oschina.net%2Fgroup1%2FM00%2F00%2F31%2FcHwGbFQXstKAHNDgAJ7IxYKyBts685.ipa%3Ftoken%3Dfa99a001937f85c6e356feaebf44c638%26ts%3D1410839262%26filename%3DLoveTime.ipa</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.henhaozhuan.isj</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>爱时间</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
